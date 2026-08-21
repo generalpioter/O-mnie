@@ -44,9 +44,9 @@ Prawdopodobnie właśnie naprawiam coś, co wcześniej sam zepsułem
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=generalpioter&show_icons=true&hide_border=true&theme=transparent" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=generalpioter&layout=compact&hide_border=true&theme=transparent" />
+<a href="https://github.com/generalpioter">
+  <img src="https://komarev.com/ghpvc/?username=generalpioter&label=Profile%20views" />
+</a>
 
 </p>
 
